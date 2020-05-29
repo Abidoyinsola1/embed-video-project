@@ -1,0 +1,40 @@
+body {
+  background-color: rgb(226, 224, 224);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.nav-container {
+  background-color: white;
+}
+
+.nav-right img {
+  width: 25px;
+}
+
+.search-bar {
+  margin-left: 500px;
+  margin-top: -30px
+}
+
+main {
+  padding: 30px 95px;
+}
+
+.container {
+  display: grid;
+  grid-template-columns: 75% 25%;
+}
+
+.side-bar {
+  display: grid;
+  grid-template-columns: 40% 60%;
+}
+
+.video-icons {
+  display: inline-flex;
+  justify-content: flex-end;
+}
+
+.video-icons p {
+  padding: 10px;
+}
