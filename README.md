@@ -1,4 +1,4 @@
-## Mint.com’s Sign up Page Clone
+## Youtube Clone
 This is a clone of Youtube page, a part of the technical curriculum projects in Microverse.
 
 ## Completed with:
