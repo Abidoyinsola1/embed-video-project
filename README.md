@@ -7,7 +7,7 @@ This is a clone of Youtube page, a part of the technical curriculum projects in 
 
 ## Author:
 Abiola Doyinsola Adeyemi
-![Screenshot](/img/)
+![Screenshot](/img/Screenshot.JPG)
 
 ## Built With
 
@@ -16,7 +16,7 @@ Abiola Doyinsola Adeyemi
 
 ## Live Demo
 
-[Live Demo Link]()
+[Live Demo Link](https://rawcdn.githack.com/Abidoyinsola1/embed-video-project/e7bb941d7e5bea1e2e9d2ac57bc27383adbd6c2a/index.html)
 
 ## Author
 
@@ -29,7 +29,7 @@ Abiola Doyinsola Adeyemi
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Abidoyinsola1/).
+Feel free to check the [issues page](https://github.com/Abidoyinsola1/embed-video-project).
 
 ## Show your support
 
