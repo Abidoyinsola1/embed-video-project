@@ -1,5 +1,5 @@
 body {
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 
 nav {
@@ -29,7 +29,7 @@ nav {
 
 .search-bar {
   display: flex;
-  margin-left: 500px;
+  margin-left: 450px;
   margin-top: 5px;
 }
 
@@ -44,7 +44,7 @@ nav {
 }
 
 main {
-  background-color: rgb(238, 238, 238);
+  background-color: rgb(243, 242, 242);
   padding: 30px 95px;
 }
 
@@ -63,11 +63,34 @@ main {
 
 .video-icons {
   display: flex;
-  align-items: flex-end;
+  position: absolute;
+  right: 35rem;
+  margin-top: 48px;
 }
 
 .video-icons p {
   padding: 0 20px;
+}
+
+.channel {
+  display: flex;
+}
+
+.channel-profile {
+  display: flex;
+  align-items: center;
+}
+
+.subscribe {
+  position: absolute;
+  right: 35rem;
+}
+
+.subscribe p {
+  background-color: red;
+  font-weight: 500;
+  color: white;
+  padding: 8px 15px;
 }
 
 .up-next {
