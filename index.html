@@ -13,19 +13,24 @@
   <!-- Navigation Starts-->
   <header>
     <nav>
-    <div class="nav-left">
-      <i class="fas fa-bars"></i>
-      <img src="img/youtube.png" alt="" width="90">
-    </div>
-    <div class="search-bar">
-
-    </div>
-    <div class="nav-right">
-
-    </div>
-  </nav>
+      <div class="nav-left">
+       <i class="fas fa-bars"></i>
+        <img src="img/youtube.png" alt="" width="70" height="30">
+      </div>
+      <div class="search-bar">
+        <input type="text" placeholder="Search">
+        <button>
+          <a href=""><i class="fas fa-search"></i></a>
+        </button>
+        <div class="nav-right">
+         <a href=""><img src="img/media-video-camera-plus-512.png" alt=""></a> 
+        <a href=""> <img src="img/apps-icon.png" alt=""></a> 
+         <a href=""> <img src="img/bell-alert.png" alt=""></a>
+         <a href=""> <img src="img/avatar.png" alt=""></a>
+        </div>
+    </nav>
   </header>
-   
+
   <!-- Navigation Ends-->
 
   <!-- Main Body Starts-->
@@ -34,32 +39,37 @@
       <div class="display">
         <iframe width="1120" height="640" src="https://www.youtube.com/embed/_GTMOmRrqkU" frameborder="0"
           allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        <h3>HTML, CSS, and Javascript in 30 minutes</h3>
-        <span>
-          <p>84.8M views • 19 Sep 2019</p>
-        </span>
-        <div class="video-icons">
-          <p><i class="fas fa-thumbs-up"></i> 12M</p>
-          <p><i class="fas fa-thumbs-down"></i> 1M</p>
-          <p><i class="fas fa-share"></i> SHARE</p>
-          <p><i class="fas fa-plus"></i> SAVE</p>
+
+        <div class="video-description">
+          <div class="video-title">
+            <h3>HTML, CSS, and Javascript in 30 minutes</h3>
+            <span>
+              <p>84.8M views • 19 Sep 2019</p>
+            </span>
+          </div>
+          <div class="video-icons">
+            <p><i class="fas fa-thumbs-up"></i> 12M</p>
+            <p><i class="fas fa-thumbs-down"></i> 1M</p>
+            <p><i class="fas fa-share"></i> SHARE</p>
+            <p><i class="fas fa-plus"></i> SAVE</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Sidebar -->
+      <div class="sidebar">
+       <div class="next-title"> <p>Up Next</p> <p class="autoplay">Autoplay <i class="fas fa-toggle-on"></i></p></div>
+        <div class="up-next">
+          <div class="next-image">
+            <img src="img/next-image-3.JPG" alt="">
+          </div>
+          <div class="next-description">
+            <h6>JavaScript Tutorial for Beginners: Learn JavaScript in 1 Hour [2020]</h6>
+            <p>Programming with Mosh</p>
+            <p>2.5M view • 2 years ago</p>
+          </div>
         </div>
         <hr>
-      </div>
-      <div class="sidebar">
-        <p>Up Next</p>
-        <div class="up-next">
-          <div class="next-image">
-            <img src="img/next-image-3.JPG" alt="">
-          </div>
-          <div class="next-description">
-            <p class="autoplay">Autoplay <i class="fas fa-toggle-on"></i></p>
-            <h6>JavaScript Tutorial for Beginners: Learn JavaScript in 1 Hour [2020]</h6>
-            <p>Programming with Mosh</p>
-            <p>2.5M view • 2 years ago</p>
-          </div>
-        </div>
-        <hr id="next-ruler">
         <div class="up-next">
           <div class="next-image">
             <img src="img/next-image-3.JPG" alt="">
@@ -90,6 +100,7 @@
             <p>2.5M view • 2 years ago</p>
           </div>
         </div>
+
         <div class="up-next">
           <div class="next-image">
             <img src="img/next-image-3.JPG" alt="">

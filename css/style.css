@@ -1,17 +1,50 @@
 body {
-  background-color: rgb(226, 224, 224);
   font-family: Arial, Helvetica, sans-serif;
 }
 
 nav {
-  background-color: white;
+  display: flex;
+}
+
+.nav-left {
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+}
+
+.nav-left i {
+  padding: 8px 10px;
+}
+
+.nav-right {
+  position: absolute;
+  right: 40px;
+  top: 20px;
 }
 
 .nav-right img {
-  width: 25px;
+  width: 30px;
+  padding: 0 20px;
+}
+
+.search-bar {
+  display: flex;
+  margin-left: 500px;
+  margin-top: 5px;
+}
+
+.search-bar input {
+  width: 500px;
+  height: 30px;
+}
+
+.search-bar button {
+  width: 50px;
+  height: 36px;
 }
 
 main {
+  background-color: rgb(238, 238, 238);
   padding: 30px 95px;
 }
 
@@ -21,30 +54,43 @@ main {
 }
 
 .display {
-  display: grid;
-  justify-content: end;
-  margin-right: 20px;
+  margin-top: 10px;
 }
 
-.autoplay {
-  display: grid;
-  justify-content: end;
-  margin-bottom: -30px;
+.video-description {
+  display: flex;
+}
+
+.video-icons {
+  display: flex;
+  align-items: flex-end;
 }
 
 .video-icons p {
-  padding: 10px;
+  padding: 0 20px;
 }
 
 .up-next {
   display: grid;
   grid-template-columns: 50% 60%;
-  padding: 8px 0;
+}
+
+.sidebar {
+  margin-top: -15px;
+}
+
+.autoplay {
+  position: absolute;
+  right: 70px;
+}
+
+.next-title {
+  display: flex;
 }
 
 .next-description {
   padding-left: 20px;
-  margin-top: -25px;
+  margin-top: -33px;
 }
 
 .next-description h6 {
