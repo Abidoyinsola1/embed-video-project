@@ -1,5 +1,5 @@
 ## Mint.com’s Sign up Page Clone
-This is a clone of Mint's sign up page, a part of the technical curriculum projects in Microverse.
+This is a clone of Youtube page, a part of the technical curriculum projects in Microverse.
 
 ## Completed with:
 - HTML
@@ -7,6 +7,30 @@ This is a clone of Mint's sign up page, a part of the technical curriculum proje
 
 ## Author:
 Abiola Doyinsola Adeyemi
+![Screenshot](/img/)
 
-## Live Demo:
-https://rawcdn.githack.com/Abidoyinsola1/form-project/5116c28c29c48b63303c09cb55866971520d889b/index.html
+## Built With
+
+- HTML
+- CSS
+
+## Live Demo
+
+[Live Demo Link]()
+
+## Author
+
+👤 **Abiola Doyinsola Adeyemi**
+- Github: [@githubhandle](https://github.com/abidoyinsola1)
+- Twitter: [@twitterhandle](https://twitter.com/abidoyinsola)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/doyinsola-adeyemi)
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/Abidoyinsola1/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!

@@ -1,0 +1,53 @@
+<a href="#!" ><img src="img/mint_2018_icon.png" alt="" id="intuit-2">mint</a>
+<a href="#!"><img src="img/quickbooks.png" alt="" id="intuit-2">quickbooks</a>
+<a href="#!" ><img src="img/turbotax.png" alt="" id="intuit-2">turbotax</a>
+
+JavaScript Tutorial for Beginners: Learn JavaScript in 1 Hour [2020]
+Programming with Mosh
+2.5M views
+2 years ago
+
+ <main>
+    <div class="container">
+      <div class="display">
+        <iframe width="1080" height="640" src="https://www.youtube.com/embed/_GTMOmRrqkU" frameborder="0"
+          allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+        <h3>HTML, CSS, and Javascript in 30 minutes</h3>
+        <span>
+          <p>84.8M views • 19 Sep 2019</p>
+        </span>
+
+        <div class="video-icons">
+          <p><i class="fas fa-thumbs-up"></i> 12M</p>
+          <p><i class="fas fa-thumbs-down"></i> 1M</p>
+          <p><i class="fas fa-share"></i> SHARE</p>
+          <p><i class="fas fa-plus"></i> SAVE</p>
+        </div>
+
+        <hr>
+
+        <div class="profile"></div>
+
+      </div>
+
+       <nav>
+      <div class="nav-container">
+        <div class="logo">
+         
+        </div>
+        <div class="search-bar">
+          <input type="text" placeholder="Search">
+          <button>
+            <a href=""> <i class="fas fa-search"></i> </a>
+          </button>
+        </div>
+        <div class="nav-right">
+          <img src="img/media-video-camera-plus-512.png" alt="">
+          <img src="img/apps-icon.png" alt="">
+          <img src="img/bell-alert.png" alt="">
+          <img src="img/avatar.png" alt="">
+        </div>
+      </div>
+    </nav>
+  </header>
