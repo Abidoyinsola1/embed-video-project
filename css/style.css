@@ -54,7 +54,12 @@ main {
 }
 
 .display {
-  margin-top: 10px;
+  margin: 10px 20px;
+}
+
+iframe {
+  border: none;
+  width: 100%;
 }
 
 .video-description {
@@ -64,7 +69,7 @@ main {
 .video-icons {
   display: flex;
   position: absolute;
-  right: 35rem;
+  right: 45rem;
   margin-top: 48px;
 }
 
@@ -72,8 +77,13 @@ main {
   padding: 0 20px;
 }
 
+.share {
+  border: none;
+}
+
 .channel {
   display: flex;
+  align-items: center;
 }
 
 .channel-profile {
@@ -82,24 +92,22 @@ main {
 }
 
 .subscribe {
-  position: absolute;
-  right: 35rem;
+  margin-left: 50rem;
+  border: none;
+  background-color: red;
+  color: white;
+  font-weight: 600;
+  padding: 10px;
 }
 
-.subscribe p {
-  background-color: red;
-  font-weight: 500;
-  color: white;
-  padding: 8px 15px;
-}
 
 .up-next {
   display: grid;
   grid-template-columns: 50% 60%;
 }
 
-.sidebar {
-  margin-top: -15px;
+aside {
+  margin: 20px;
 }
 
 .autoplay {
@@ -126,6 +134,10 @@ main {
 }
 
 .next-image img {
-  width: 180px;
-  height: 120px;
+  width: 100%;
+  height: 100%;
+}
+
+.next-image {
+  width: 100%;
 }
