@@ -69,7 +69,7 @@ iframe {
 .video-icons {
   display: flex;
   position: absolute;
-  right: 45rem;
+  left: 50rem;
   margin-top: 48px;
 }
 
@@ -92,7 +92,7 @@ iframe {
 }
 
 .subscribe {
-  margin-left: 50rem;
+  margin-left: 45rem;
   border: none;
   background-color: red;
   color: white;
@@ -107,7 +107,7 @@ iframe {
 }
 
 aside {
-  margin: 20px;
+  margin: 5px 20px;
 }
 
 .autoplay {
@@ -135,7 +135,6 @@ aside {
 
 .next-image img {
   width: 100%;
-  height: 100%;
 }
 
 .next-image {
