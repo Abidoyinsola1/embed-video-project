@@ -1,5 +1,6 @@
 body {
   font-family: 'Roboto', sans-serif;
+  position: static;
 }
 
 nav {
@@ -29,12 +30,12 @@ nav {
 
 .search-bar {
   display: flex;
-  margin-left: 400px;
+  margin-left: 330px;
   margin-top: 5px;
 }
 
 .search-bar input {
-  width: 500px;
+  width: 400px;
   height: 30px;
 }
 
@@ -68,9 +69,8 @@ iframe {
 
 .video-icons {
   display: flex;
-  position: absolute;
-  left: 40rem;
   margin-top: 48px;
+  margin-left: 20rem;
 }
 
 .video-icons p {
