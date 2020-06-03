@@ -1,0 +1,149 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  position: static;
+}
+
+button {
+  cursor: pointer;
+}
+
+nav {
+  display: flex;
+}
+
+.nav-left {
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+}
+
+.nav-left i {
+  padding: 8px 10px;
+}
+
+.nav-right {
+  position: absolute;
+  right: 40px;
+  top: 20px;
+}
+
+.nav-right img {
+  width: 30px;
+  padding: 0 20px;
+}
+
+.search-bar {
+  display: flex;
+  margin-left: 500px;
+  margin-top: 5px;
+}
+
+.search-bar input {
+  width: 400px;
+  height: 30px;
+}
+
+.search-bar button {
+  width: 50px;
+  height: 36px;
+}
+
+main {
+  background-color: rgb(243, 242, 242);
+  padding: 30px 95px;
+}
+
+.container {
+  display: grid;
+  grid-template-columns: 75% 25%;
+}
+
+.display {
+  margin: 10px 20px;
+}
+
+iframe {
+  border: none;
+  width: 100%;
+}
+
+.video-description {
+  display: flex;
+}
+
+.video-icons {
+  display: flex;
+  margin-top: 48px;
+  margin-left: 20rem;
+}
+
+.video-icons p {
+  padding: 0 25px;
+}
+
+.share {
+  border: none;
+}
+
+.channel {
+  display: flex;
+  align-items: center;
+}
+
+.channel-profile {
+  display: flex;
+  align-items: center;
+}
+
+.subscribe {
+  margin-left: 35rem;
+  border: none;
+  background-color: red;
+  color: white;
+  font-weight: 600;
+  padding: 10px;
+}
+
+
+.up-next {
+  display: grid;
+  grid-template-columns: 50% 60%;
+}
+
+aside {
+  margin: 5px 20px;
+}
+
+.autoplay {
+  position: absolute;
+  right: 75px;
+}
+
+.next-title {
+  display: flex;
+}
+
+.next-description {
+  padding: 0 0 10px 20px;
+  margin-top: -15px;
+}
+
+.next-description h6 {
+  font-size: 11px;
+  line-height: 16px;
+  margin-bottom: -2px;
+}
+
+.next-description p {
+  font-size: 10px;
+}
+
+.next-image img {
+  width: 100%;
+  height: 100%;
+}
+
+.next-image {
+  width: 100%;
+  height: 100%;
+}
