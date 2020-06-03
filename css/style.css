@@ -29,7 +29,7 @@ nav {
 
 .search-bar {
   display: flex;
-  margin-left: 450px;
+  margin-left: 400px;
   margin-top: 5px;
 }
 
@@ -69,7 +69,7 @@ iframe {
 .video-icons {
   display: flex;
   position: absolute;
-  left: 50rem;
+  left: 40rem;
   margin-top: 48px;
 }
 
@@ -92,7 +92,7 @@ iframe {
 }
 
 .subscribe {
-  margin-left: 45rem;
+  margin-left: 35rem;
   border: none;
   background-color: red;
   color: white;
