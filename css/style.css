@@ -3,6 +3,10 @@ body {
   position: static;
 }
 
+button {
+  cursor: pointer;
+}
+
 nav {
   display: flex;
 }
@@ -30,7 +34,7 @@ nav {
 
 .search-bar {
   display: flex;
-  margin-left: 330px;
+  margin-left: 500px;
   margin-top: 5px;
 }
 
@@ -74,7 +78,7 @@ iframe {
 }
 
 .video-icons p {
-  padding: 0 10px;
+  padding: 0 25px;
 }
 
 .share {
